@@ -1,0 +1,1 @@
+Descripción\nEste proyecto implementa un sitio básico con Navbar y Footer usando flujo de trabajo Gitflow.
